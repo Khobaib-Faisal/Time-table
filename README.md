@@ -1,1 +1,1 @@
-# Time-table
+# Study Time-table
